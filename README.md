@@ -1,1 +1,1 @@
-# CSAPP Notes
+# CSAPP Notes and Practices
